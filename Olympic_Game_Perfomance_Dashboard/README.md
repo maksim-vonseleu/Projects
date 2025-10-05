@@ -35,7 +35,6 @@ Based on the interactive dashboards and the scope of the project, the analysis r
 | **Power BI Desktop** | Dashboard development, visualization, and interactive report creation. |
 | **DAX (Data Analysis Expressions)** | Creating complex calculated measures (e.g., All-Time Rank, Medal Rate, Year-over-Year Growth). |
 | **Power Query (M)** | Data cleaning, transformation, and establishing a robust Star Schema data model. |
-| **\<Source Data, e.g., Kaggle Dataset / CSV File\>** | Source data for Olympic results. |
 
 -----
 

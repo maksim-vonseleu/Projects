@@ -63,7 +63,7 @@ A glimpse into the key analysis pages:
 
 Project developed by **Maksim Vonseleu **
 
-  * **GitHub:**https://github.com/maksim-vonseleu
+  * **GitHub:** https://github.com/maksim-vonseleu
   * **LinkedIn:** linkedin.com/in/maksimvonseleu
 
 -----

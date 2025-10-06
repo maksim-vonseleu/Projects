@@ -46,7 +46,7 @@ The analysis was performed using the Python programming language within a Jupyte
 * **Environment:** Jupyter Notebook
 * **Libraries:**
     * **Pandas:** For data manipulation and cleaning.
-    * **Matplotlib:** For data visualization (creating line charts, histograms, and bar plots).
+    * **Matplotlib, seaborn:** For data visualization (creating line charts, histograms, and bar plots).
     * **NumPy:** For numerical operations (used internally by Pandas).
 
 ---

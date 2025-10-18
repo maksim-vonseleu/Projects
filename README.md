@@ -14,6 +14,7 @@ Each project demonstrates practical skills in **data cleaning, analysis, visuali
 | 📈 **Power BI / DAX** | Interactive dashboards and KPI reporting |
 | 🧮 **Excel / Power Query** | Data preparation and quick analytics |
 | 📓 **Jupyter Notebook** | Reproducible analytical workflows |
+
 ---
 ## 📁 Projects Overview
 

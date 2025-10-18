@@ -1,11 +1,9 @@
-# 📊 Data Analytics Projects — Maksim Vonseleu
+# 📊 Data Analytics Projects
 
 Welcome!  
 This repository contains my portfolio of **data analytics projects**, built using **Python, Power BI, and SQL**.  
 Each project demonstrates practical skills in **data cleaning, analysis, visualization, and storytelling** — transforming raw data into actionable insights.
-
 ---
-
 ## 🧰 Tech Stack
 
 | Tool | Purpose |
@@ -15,9 +13,7 @@ Each project demonstrates practical skills in **data cleaning, analysis, visuali
 | 📈 **Power BI / DAX** | Interactive dashboards and KPI reporting |
 | 🧮 **Excel / Power Query** | Data preparation and quick analytics |
 | 📓 **Jupyter Notebook** | Reproducible analytical workflows |
-
 ---
-
 ## 📁 Projects Overview
 
 ### 🏡 [Airbnb Listings Analysis](./Airnb_Listings_Analysis)
@@ -32,13 +28,7 @@ The focus is on understanding how variables like room type, reviews, and locatio
 - Entire apartments have higher average prices than private rooms.  
 - Review count moderately correlates with listing price.  
 - Certain neighborhoods demonstrate higher revenue potential.  
-
-#### 🧩 Future Improvements
-- Add regression model for price prediction.  
-- Integrate Folium maps for geospatial insights.  
-
 ---
-
 ### ☕ [Coffee Shop Sales Dashboard](./Coffee_Shop_Sales_Dashboard)
 **Environment:** Power BI  
 
@@ -50,13 +40,7 @@ The goal is to provide actionable insights for **profit optimization and product
 - Identified best-selling products and time-based revenue trends.  
 - Highlighted peak hours for customer traffic.  
 - Compared profitability across stores and categories.
-
-#### 🧩 Future Improvements
-- Add predictive sales trend analysis (DAX + time intelligence).  
-- Integrate real-time refresh from SQL data source.
-
 ---
-
 ### 🌱 [ESG Indicators Dashboard](./ESG_Indicators_Dashboard)
 **Environment:** Power BI  
 
@@ -68,11 +52,6 @@ Focus on analyzing sustainability metrics and identifying improvement opportunit
 - CO₂ emissions show strong correlation with industrial output.  
 - Renewable energy usage has increased steadily over time.  
 - Clear visualization of ESG scores helps stakeholders track goals.
-
-#### 🧩 Future Improvements
-- Connect to live ESG APIs for automated updates.  
-- Add predictive model for sustainability index trends.
-
 ---
 
 ### 🏅 [Olympic Games Performance Dashboard](./Olympic_Game_Perfomance_Dashboard)
@@ -86,20 +65,6 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 - Visualized country-wise medal trends and overall rankings.  
 - Identified dominant nations per sport and event type.  
 - Historical view of performance evolution since early Olympic games.
-
-#### 🧩 Future Improvements
-- Include gender-based performance metrics.  
-- Add dynamic comparison filters for nations and sports.
-
----
-
-## 🧠 Learning Focus
-Through these projects I strengthened my skills in:
-- 🧩 Data transformation and visualization  
-- 🧮 DAX and SQL query optimization  
-- 🐍 Python scripting for automation and EDA  
-- 📈 Business-focused storytelling through data  
-
 ---
 
 ## 📬 Contact
@@ -110,6 +75,5 @@ Through these projects I strengthened my skills in:
 💻 [GitHub](https://github.com/maksim-vonseleu)
 
 ---
-
 ⭐ *If you found these projects interesting, feel free to star the repository or connect with me on LinkedIn!*
 

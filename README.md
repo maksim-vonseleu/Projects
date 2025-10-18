@@ -3,6 +3,7 @@
 Welcome!  
 This repository contains my portfolio of **data analytics projects**, built using **Python, Power BI, and SQL**.  
 Each project demonstrates practical skills in **data cleaning, analysis, visualization, and storytelling** — transforming raw data into actionable insights.
+
 ---
 ## 🧰 Tech Stack
 

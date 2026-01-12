@@ -68,7 +68,7 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 - Identified dominant nations per sport and event type.  
 - Historical view of performance evolution since early Olympic games.
 ---
-### [Energy Consumption Analysis](./Energy Consumption Analysis)
+### [Energy Consumption Analysis](./Energy_Consumption_Analysis)
 In progress...
 
 ## Contact

@@ -68,7 +68,7 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 - Identified dominant nations per sport and event type.  
 - Historical view of performance evolution since early Olympic games.
 ---
-### [Lithuania Energy Consumption & Prosumer Analysis](./Energy_Consumption_Analysis)
+### [Lithuania Energy Consumption & Prosumer Analysis](./Lithuania_Energy_Consumption_Analysis)
 
 **Environment:** Power BI, Python, SQL
 

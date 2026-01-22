@@ -68,8 +68,19 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 - Identified dominant nations per sport and event type.  
 - Historical view of performance evolution since early Olympic games.
 ---
-### [Energy Consumption Analysis](./Energy_Consumption_Analysis)
-In progress...
+### [Lithuania Energy Consumption & Prosumer Analysis](./Energy_Consumption_Analysis)
+
+**Environment:** Power BI, Python, SQL
+
+#### **Description**
+* **Data Analysis & Engineering:** Exploratory study of the relationship between electricity consumption, generation capacity, and meteorological patterns in Lithuania.
+* **Segment Focus:** Deep dive into the **"Prosumer"** (Generating Consumer) landscape and regional energy distribution.
+* **Strategic Pivot:** Documentation of a technical shift from failed predictive modeling (due to data granularity) to a high-value descriptive **Business Intelligence** framework.
+
+#### **Key Insights**
+* **Regional Hotspots:** Identified Vilnius and Kaunas as primary zones for prosumer density, highlighting where grid modernization and "Smart Grid" investments are most critical.
+* **Granularity Proof:** Experimentally demonstrated that semi-annual weather aggregation masks consumption signals, proving that **hourly smart-meter data** is a prerequisite for utility forecasting.
+* **Efficiency Gap:** Visualized trends showing that high installed generation capacity does not always lead to a linear reduction in net consumption, indicating a need for improved self-consumption or storage (battery) solutions.
 
 ## Contact
 

@@ -80,7 +80,6 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 #### **Key Insights**
 * **Regional Hotspots:** Identified Vilnius and Kaunas as primary zones for prosumer density, highlighting where grid modernization and "Smart Grid" investments are most critical.
 * **Granularity Proof:** Experimentally demonstrated that semi-annual weather aggregation masks consumption signals, proving that **hourly smart-meter data** is a prerequisite for utility forecasting.
-* **Efficiency Gap:** Visualized trends showing that high installed generation capacity does not always lead to a linear reduction in net consumption, indicating a need for improved self-consumption or storage (battery) solutions.
 
 ## Contact
 

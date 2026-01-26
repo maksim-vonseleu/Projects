@@ -73,7 +73,7 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 **Environment:** Power BI, Python, SQL
 
 #### **Description**
-* **Data Analysis & Engineering:** Exploratory study of the relationship between electricity consumption, generation capacity, and meteorological patterns in Lithuania.
+* **Data Analysis:** Exploratory study of the relationship between electricity consumption, generation capacity, and meteorological patterns in Lithuania.
 * **Segment Focus:** Deep dive into the **"Prosumer"** (Generating Consumer) landscape and regional energy distribution.
 * **Strategic Pivot:** Documentation of a technical shift from failed predictive modeling (due to data granularity) to a high-value descriptive **Business Intelligence** framework.
 

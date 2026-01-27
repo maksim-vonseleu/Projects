@@ -64,5 +64,5 @@ Following the predictive pivot, the analysis focused on descriptive business val
 * **Power BI:** Open the provided `.pbix` file to interact with the regional dashboard.
 
 ---
-**Analyst:** [Maksim Vosnseleu]  
+**Analyst:** Maksim Vosnseleu 
 **Stack:** Python | Power BI | SQL | Business Intelligence

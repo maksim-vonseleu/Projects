@@ -64,5 +64,5 @@ Following the predictive pivot, the analysis focused on descriptive business val
 
 ---
 **Analyst:** Maksim Vonseleu  
-**Stack:** Python | Power BI | SQL | Business Intelligence
+**Stack:** Python | Power BI | Business Intelligence
 

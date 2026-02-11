@@ -9,10 +9,9 @@ Each project demonstrates practical skills in **data cleaning, analysis, visuali
 
 | Tool | Purpose |
 |------|----------|
-| **Python (Pandas, NumPy, Matplotlib, Seaborn)** | Data cleaning, analysis, and visualization |
+| **Python (Pandas, NumPy, Matplotlib, Seaborn, Sckit-learn)** | Data cleaning, analysis, and visualization, prediction |
 | **SQL (MySQL)** | Querying and aggregating structured data |
-| **Power BI / DAX** | Interactive dashboards and KPI reporting |
-| **Excel / Power Query** | Data preparation and quick analytics |
+| **Power BI / DAX, PowerQuery** | Interactive dashboards and KPI reporting |
 | **Jupyter Notebook** | Reproducible analytical workflows |
 
 ---

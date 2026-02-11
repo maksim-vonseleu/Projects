@@ -1,4 +1,4 @@
-# Project Report: Energy Consumption & Prosumer Landscape in Lithuania
+# Lithuania Energy Consumption & Prosumer Analysis
 
 ## 1. Executive Summary
 This project analyzes the relationship between electricity consumption and meteorological factors in Lithuania, with a specific focus on the growing **"Prosumer"** (Generating Consumer) segment. While the initial goal was to build a predictive forecasting model, the technical analysis revealed that semi-annual data aggregation masks critical weather-driven consumption signals. Consequently, the project was pivoted to a **Strategic Business Intelligence** framework to provide actionable insights into regional energy distribution and capacity planning.

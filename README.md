@@ -69,7 +69,7 @@ Includes medal distribution, participation rates, and athlete statistics over ti
 ---
 ### [Lithuania Energy Consumption & Prosumer Analysis](./Lithuania_Energy_Consumption_Analysis)
 
-**Environment:** Power BI, Python, SQL
+**Environment:** Power BI, Python
 
 #### **Description**
 * **Data Analysis:** Exploratory study of the relationship between electricity consumption, generation capacity, and meteorological patterns in Lithuania.

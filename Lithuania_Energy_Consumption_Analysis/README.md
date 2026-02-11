@@ -23,7 +23,6 @@ The Lithuanian energy sector is decentralizing. Utility providers and grid opera
 * **Python (Pandas/NumPy):** Data cleaning, feature engineering, and period-based aggregation.
 * **Scikit-Learn:** Random Forest Regressor implementation.
 * **Power BI (DAX):** Interactive reporting and regional trend analysis.
-* **SQL Logic:** Data structuring for relational modeling.
 
 ---
 

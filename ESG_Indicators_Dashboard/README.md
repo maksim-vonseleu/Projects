@@ -1,4 +1,4 @@
-# 🌍 ESG Performance Dashboard
+# 🌍 Global Corporate ESG Benchmarking & Risk Analysis
 
 ## 📌 Project Overview
 
